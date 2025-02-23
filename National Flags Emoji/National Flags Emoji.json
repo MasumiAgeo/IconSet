@@ -1,20 +1,20 @@
 {
     "name":"National Flags Emoji",
     "icons":[
-        {"name":"Canada_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Canada_Emoji_OpenMoji.PNG"},
-        {"name":"France_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/France_Emoji_OpenMoji.PNG"},
-        {"name":"Germany_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Germany_Emoji_OpenMoji.PNG"},
-        {"name":"Hong Kong_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Hong%20Kong_Emoji_OpenMoji.PNG"},
-        {"name":"India_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/India_Emoji_OpenMoji.PNG"},
-        {"name":"Japan_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Japan_Emoji_OpenMoji.PNG"},
-        {"name":"Korea_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Korea_Emoji_OpenMoji.PNG"},
-        {"name":"Macau_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Macau_Emoji_OpenMoji.PNG"},
-        {"name":"Russia_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Russia_Emoji_OpenMoji.PNG"},
-        {"name":"Singapore_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Singapore_Emoji_OpenMoji.PNG"},
-        {"name":"Taiwan_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Taiwan_Emoji_OpenMoji.PNG"},
-        {"name":"Thailand_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Thailand_Emoji_OpenMoji.PNG"},
-        {"name":"Turkey_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Turkey_Emoji_OpenMoji.PNG"},
-        {"name":"United Kingdom_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/United%20Kingdom_Emoji_OpenMoji.PNG"},
-        {"name":"United States_Emoji_OpenMoji.PNG","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/United%20States_Emoji_OpenMoji.PNG"}
+        {"name":"Canada_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Canada_Emoji_OpenMoji.png"},
+        {"name":"France_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/France_Emoji_OpenMoji.png"},
+        {"name":"Germany_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Germany_Emoji_OpenMoji.png"},
+        {"name":"Hong Kong_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Hong%20Kong_Emoji_OpenMoji.png"},
+        {"name":"India_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/India_Emoji_OpenMoji.png"},
+        {"name":"Japan_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Japan_Emoji_OpenMoji.png"},
+        {"name":"Korea_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Korea_Emoji_OpenMoji.png"},
+        {"name":"Macau_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Macau_Emoji_OpenMoji.png"},
+        {"name":"Russia_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Russia_Emoji_OpenMoji.png"},
+        {"name":"Singapore_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Singapore_Emoji_OpenMoji.png"},
+        {"name":"Taiwan_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Taiwan_Emoji_OpenMoji.png"},
+        {"name":"Thailand_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Thailand_Emoji_OpenMoji.png"},
+        {"name":"Turkey_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/Turkey_Emoji_OpenMoji.png"},
+        {"name":"United Kingdom_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/United%20Kingdom_Emoji_OpenMoji.png"},
+        {"name":"United States_Emoji_OpenMoji.png","url":"https://raw.githubusercontent.com/MasumiAgeo/IconSet/refs/heads/main/National%20Flags%20Emoji/United%20States_Emoji_OpenMoji.png"}
     ]
 }
